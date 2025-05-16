@@ -51,7 +51,13 @@ This project is hosted live on GitHub Pages:
 
 https://parthkariya-learner.github.io/Password-Generator/
 
-Feel free to share the link or use it as a quick password tool!
+🙌 Credits
+Built with ❤️ by Parth Kariya.
+
+Inspired by best practices for secure password generation.
+
+📜 License
+This project is licensed under the MIT License.
 
 
 
